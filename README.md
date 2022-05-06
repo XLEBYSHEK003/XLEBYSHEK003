@@ -1,4 +1,13 @@
-<body bgcolor="#fa8e47" text="#fff">
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+background-color: #d24dff
+}
+</style>
+</head>
+</html>
 <h1 align="center">Hi, i <a href="https://github.com/XLEBYSHEK003" target="_blank">XLEBYSHEK!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm the man from the Motherland</h3>
