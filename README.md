@@ -4,4 +4,4 @@
 I'm the man from the coldest land
 Take my hand, we will drive a tank
 Russia is my home! RU</h3>
-<img src="https://c.tenor.com/BnXcLU_dA5kAAAAM/natsukisubaru-subaru.gif" height="32"/></h1>
+<img src="https://c.tenor.com/BnXcLU_dA5kAAAAM/natsukisubaru-subaru.gif"></h1>
